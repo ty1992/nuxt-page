@@ -1,0 +1,9 @@
+{
+  "apps":[
+    {
+      "name": "nuxt-page", 
+      "script": "npm",
+      "args": "start",
+      "max_memory_restart":"200M"
+    }
+]}
