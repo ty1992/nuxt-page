@@ -1,0 +1,65 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_38f19d47"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_5b3ea235"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\settings.vue",
+    "chunkName": "pages/settings",
+    "_name": "_3e3b2096"
+  },
+  {
+    "name": "article-edit",
+    "path": "/article/edit",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\article\\\\edit.vue",
+    "chunkName": "pages/article/edit",
+    "_name": "_d6cc4b44"
+  },
+  {
+    "name": "article-components-AritcleComment",
+    "path": "/article/components/AritcleComment",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\article\\\\components\\\\AritcleComment.vue",
+    "chunkName": "pages/article/components/AritcleComment",
+    "_name": "_33758449"
+  },
+  {
+    "name": "article-components-ArticleMeta",
+    "path": "/article/components/ArticleMeta",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\article\\\\components\\\\ArticleMeta.vue",
+    "chunkName": "pages/article/components/ArticleMeta",
+    "_name": "_3dfcfdfe"
+  },
+  {
+    "name": "article-slug",
+    "path": "/article/:slug?",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\article\\\\_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_3ea289e6"
+  },
+  {
+    "name": "profile-username",
+    "path": "/profile/:username?",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\profile\\\\_username.vue",
+    "chunkName": "pages/profile/_username",
+    "_name": "_12ce37fe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\project\\\\nuxt-page\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6f49fa30"
+  }
+]
